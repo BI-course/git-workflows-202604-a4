@@ -22,3 +22,4 @@ Refer to the files in the order specified below for more details:
 - [lab_instructions_part2.md](lab_instructions_part2.md)
 Project lead: Member 4 — responsible for overall coordination.
 Project lead: Member 4 — responsible for overall coordination.
+Project lead: Member 4 — responsible for overall coordination.
