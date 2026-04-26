@@ -13,6 +13,10 @@
 
 ## Lab Manuals
 
+echo "Project lead: Member 4 — responsible for overall coordination." >> README.md
+git add README.md
+git commit -m "Add project lead attribution to README"
+
 Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
