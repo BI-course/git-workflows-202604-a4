@@ -13,3 +13,4 @@ Refer to the files in the order specified below for more details:
 | Member 2 | Gibson Kingori  | Data Sources Research                  |
 | Member 3 | Steve Mochoge   | Star Schema & Data Governance Research |
 | Member 4 | Desmond Turkmen | ETL/ELT Research                       |
+Project lead: Member 4 — responsible for overall coordination.
